@@ -1,0 +1,21 @@
+ProjectID,ProjectName,ProjectManager,TotalBudget,StartDate,EndDate
+P001,Cloud Migration,Alice Johnson,250000,1/5/2025,6/30/2025
+P002,AI Chatbot,Bob Smith,150000,2/1/2025,7/31/2025
+P003,Data Warehouse Upgrade,Carol Lee,300000,1/15/2025,8/15/2025
+P004,Cybersecurity Enhancement,David Brown,200000,3/1/2025,9/30/2025
+P005,ERP Modernization,Emma Wilson,450000,1/10/2025,12/15/2025
+P006,CRM Integration,Frank Miller,120000,2/10/2025,6/30/2025
+P007,Mobile App Revamp,Grace Kim,180000,3/5/2025,8/20/2025
+P008,Network Infrastructure Refresh,Henry Davis,220000,1/20/2025,7/10/2025
+P009,DevOps Automation,Irene Patel,90000,2/15/2025,5/31/2025
+P010,BI Reporting Platform,Jack Thompson,160000,3/1/2025,9/1/2025
+P011,Identity Access Management,Kevin Moore,140000,1/25/2025,6/15/2025
+P012,Disaster Recovery Setup,Linda Garcia,210000,2/5/2025,7/25/2025
+P013,API Gateway Implementation,Michael Chen,110000,3/10/2025,6/30/2025
+P014,Legacy System Decommission,Nina Roberts,130000,1/5/2025,5/30/2025
+P015,AI Forecasting Tool,Oscar Nguyen,175000,2/20/2025,8/31/2025
+P016,Endpoint Device Rollout,Paula Scott,95000,3/1/2025,6/15/2025
+P017,Cloud Cost Optimization,Quentin Adams,80000,1/15/2025,4/30/2025
+P018,HR Systems Upgrade,Rachel White,155000,2/1/2025,7/15/2025
+P019,Customer Data Platform,Steven Young,260000,1/20/2025,9/30/2025
+P020,IT Service Desk Tooling,Tina Lopez,105000,3/5/2025,6/30/2025
