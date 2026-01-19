@@ -26,6 +26,8 @@ Actual Spend = SUMX(Project_List, CALCULATE(MAX(Project_Updates[SpendToDate])))
 /* 3. Budget Variance */
 Budget Variance = [Actual Spend] - [Total Budget]
 
+```
+
 ## 🔍 Key Insights
 * **Portfolio Health:** Identified that **20% of active projects** were in "Red" status.
 * **Financial Risk:** The "Red" projects accounted for a significant budget overrun, visualized instantly via conditional formatting.
